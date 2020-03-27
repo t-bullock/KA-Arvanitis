@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"/_part.kentimata n"
+);
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-03-04 05:06:27 +0000";
 designer = "Trevor Bullock";
@@ -440,14 +443,14 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2020-03-26 22:15:51 +0000";
+lastChange = "2020-03-27 15:42:46 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = z;
-transform = "{1, 0, 0, 1, -150, -440}";
+transform = "{1, 0, 0, 1, 0, -440}";
 }
 );
 layerId = "7ACBF0CA-D6D9-48B9-AD85-C2B45C429C2C";
@@ -600,14 +603,14 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2020-03-26 22:00:33 +0000";
+lastChange = "2020-03-27 15:43:13 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = z;
-transform = "{1, 0, 0, 1, 330, -610}";
+transform = "{1, 0, 0, 1, 330, -480}";
 }
 );
 layerId = "7ACBF0CA-D6D9-48B9-AD85-C2B45C429C2C";
@@ -728,14 +731,14 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2020-03-26 22:00:33 +0000";
+lastChange = "2020-03-26 22:20:55 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = z;
-transform = "{1, 0, 0, 1, 470, 0}";
+transform = "{1, 0, 0, 1, 440, 100}";
 }
 );
 layerId = "7ACBF0CA-D6D9-48B9-AD85-C2B45C429C2C";
