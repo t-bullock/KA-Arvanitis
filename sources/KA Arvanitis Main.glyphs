@@ -1,8 +1,5 @@
 {
-.appVersion = "895";
-DisplayStrings = (
-/_part.bar_line
-);
+.appVersion = "1287";
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2019-04-09 23:04:12 +0000";
 designer = "Trevor Bullock";
@@ -3352,7 +3349,7 @@ width = 1058;
 {
 export = 0;
 glyphname = _part.kentima_small;
-lastChange = "2020-03-21 11:41:57 +0000";
+lastChange = "2020-04-22 16:18:26 +0000";
 layers = (
 {
 components = (
@@ -3363,7 +3360,7 @@ transform = "{0.9, 0, 0, 0.9, 0, 0}";
 }
 );
 layerId = "AD7DA302-83AC-4AF1-8ADB-1D862706C7A7";
-width = 184;
+width = 185;
 }
 );
 },
