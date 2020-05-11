@@ -161,21 +161,22 @@ unicode = 0047;
 },
 {
 glyphname = I;
-lastChange = "2020-05-07 17:11:02 +0000";
+lastChange = "2020-05-11 17:54:47 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = _part.petaste;
-transform = "{1, 0, 0, 1, 56, 0}";
+transform = "{1, 0, 0, 1, 130, 0}";
 },
 {
-name = parenleft;
-transform = "{1, 0, 0, 1, 6, 166}";
+name = asterisk;
+transform = "{1, 0, 0, 1, 0, 240}";
 }
 );
 layerId = "4F45D6A5-8EEC-400C-A25A-C7212E110E67";
-width = 938;
+width = 1012;
 }
 );
 unicode = 0049;
@@ -276,22 +277,21 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2020-05-07 17:11:02 +0000";
+lastChange = "2020-05-11 17:54:51 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
 name = _part.petaste;
-transform = "{1, 0, 0, 1, 130, 0}";
+transform = "{1, 0, 0, 1, 56, 0}";
 },
 {
-name = asterisk;
-transform = "{1, 0, 0, 1, 0, 240}";
+name = parenleft;
+transform = "{1, 0, 0, 1, 6, 166}";
 }
 );
 layerId = "4F45D6A5-8EEC-400C-A25A-C7212E110E67";
-width = 1012;
+width = 938;
 }
 );
 unicode = 004F;
